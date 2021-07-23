@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnDamazio
 - 👀 I’m interested in Javascript, PHP, Java
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: email: damazioandre@hotmail.com
 
 <!---
