@@ -2,6 +2,7 @@
 - 👀 I’m interested in Javascript, PHP, Java
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: email: damazioandre@hotmail.com
+- 🐱‍👤 Studying systems development at ETEC de Barueri
 
 <!---
 AnDamazio/AnDamazio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
