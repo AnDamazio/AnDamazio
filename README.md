@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnDamazio
-- 👀 I’m interested in Javascript, PHP, Java
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Javascript, Node JS, React JS
+- 🌱 I’m currently learning JavaScript with Node
 - 📫 How to reach me: email: damazioandre@hotmail.com
 - 🐱‍👤 Studying systems development at ETEC de Barueri
 
