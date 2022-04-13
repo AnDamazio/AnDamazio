@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnDamazio
-- 👀 I’m interested in Javascript, Node JS, React JS
-- 🌱 I’m currently learning JavaScript with Node and React/React-Native
+- 👀 I’m interested in Javascript, NodeJS, Typescript, NestJS
+- 🌱 I’m currently learning Typescript and NestJS
 - 📫 How to reach me: 
 - email: damazioandre@hotmail.com
 - 🐱‍👤 Studying systems development at ETEC de Barueri
