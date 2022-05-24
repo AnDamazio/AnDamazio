@@ -7,7 +7,7 @@
 
 [![AnDamazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDamazio&show_icons=true&theme=radical)](https://github.com/AnDamazio/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username&show_icons=true&theme=tokyonight&=AnDamazio&layout=compact)](https://github.com/AnDamazio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDamazio&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/AnDamazio/github-readme-stats)
 
 <!---
 AnDamazio/AnDamazio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
