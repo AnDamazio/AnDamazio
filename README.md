@@ -5,7 +5,9 @@
 - email: damazioandre@hotmail.com
 - 🐱‍👤 Studying systems development at ETEC de Barueri
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AnDamazio/github-readme-stats)
+[![AnDamazio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDamazio)](https://github.com/AnDamazio/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnDamazio&layout=compact)](https://github.com/AnDamazio/github-readme-stats)
 
 <!---
 AnDamazio/AnDamazio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
