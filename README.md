@@ -33,9 +33,9 @@
   </a>
 </div>
 
-### Snake eating my contribution graph
+###
 
 <br clear="both">
 
-![snake_gif](https://raw.githubusercontent.com/AnDamazio/AnDamazio/blob/output/snake.svg" alt="Snake animation)
+![snake gif](https://github.com/AnDamazio/AnDamazio/blob/output/snake.svg)
 ###
