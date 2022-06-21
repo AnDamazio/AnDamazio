@@ -33,7 +33,7 @@
   </a>
 </div>
 
-### Snake eating my contribution grapph
+### Snake eating my contribution graph
 
 <br clear="both">
 
